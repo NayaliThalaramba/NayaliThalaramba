@@ -1,7 +1,7 @@
 -  Hi, I’m @NayaliThalaramba
 -  I’m interested in Frontend developing and UI/UX developing.
 -  I am a self-motivated developer from Sri Lanka.
--  I am currently learning JS. 
+-  I am currently learning React. 
 
 <!---
 NayaliThalaramba/NayaliThalaramba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
